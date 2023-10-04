@@ -3,7 +3,7 @@
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Demo
-[Demo Picture](assets/"Screenshot 2023-10-03 at 10.39.55 PM.png")
+[Demo Picture](assets/Screenshot%202023-10-03%20at%2010.39.55%20PM.png)
 
 For a visual demonstration of the project's capabilities, check out this [Video Demo](https://youtu.be/k8xb5Qf_5GI?si=1Ld-2XWPcmgehN7l)
 
