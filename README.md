@@ -3,7 +3,7 @@
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Demo
-[Video Demo](https://youtu.be/k8xb5Qf_5GI?si=1Ld-2XWPcmgehN7l)
+For a visual demonstration of the project's capabilities, check out this [Video Demo](https://youtu.be/k8xb5Qf_5GI?si=1Ld-2XWPcmgehN7l)
 
 ## Description
 
