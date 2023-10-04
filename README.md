@@ -14,8 +14,6 @@ A command-line application that dynamically generates a professional README.md f
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Contributing](#contributing)
-- [Tests](#tests)
 - [Questions](#questions)
 - [License](#license)
 
