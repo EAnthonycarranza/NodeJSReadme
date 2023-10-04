@@ -2,6 +2,10 @@
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
+## Demo
+[Video Demo]
+(https://youtu.be/k8xb5Qf_5GI?si=1Ld-2XWPcmgehN7l)
+
 ## Description
 
 A command-line application that dynamically generates a professional README.md file from a user's input. This tool is designed to help developers create a high-quality README for their projects without spending extra time on formatting and content organization.
