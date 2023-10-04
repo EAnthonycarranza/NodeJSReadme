@@ -38,17 +38,9 @@ To use the README generator:
 - Table of contents with clickable links.
 - Sections for installation, usage, contributing, tests, and more.
 
-## Contributing
-
-If you'd like to contribute to this project, please open an issue or pull request.
-
-## Tests
-
-To run tests, navigate to the project directory and run `npm test`.
-
 ## Questions
 
-For any questions or feedback, please contact [YourGitHubUsername](https://github.com/YourGitHubUsername) or email at your.email@example.com.
+For any questions or feedback, please contact me [here](https://github.com/EAnthonycarranza) or email at anthonycarranza123@gmail.com.
 
 ## License
 
